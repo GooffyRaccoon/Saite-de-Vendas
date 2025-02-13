@@ -73,10 +73,8 @@ header{
 }
 
 .page01back{
-    width: 2000px;
     height: 750px;
     background-image: url(background01.png);
-    background-repeat: no-repeat;
     justify-self: center;
     align-content: center;
 }
@@ -181,7 +179,6 @@ header{
 }
 
 .page02{
-    width: 1440px;
     height: 900px;
     background-image: url(background02.png);
     justify-self: center;
